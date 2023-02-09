@@ -1,7 +1,6 @@
-from multiprocessing import Process, Array, Lock
-from random import randint, shuffle
+from multiprocessing import Process, Array
+from random import randint
 from time import sleep
-from timeit import timeit
 
 from prettytable import PrettyTable
 
